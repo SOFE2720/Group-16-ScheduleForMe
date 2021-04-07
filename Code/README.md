@@ -1,6 +1,7 @@
 # ourcampus
 A scheduler for students.
 ## Installation Instructions
+Note: Make sure you have wamp server downloaded and installed on your computer
 ### Step 1
 > Edit `includes/dbhandler.inc.php` with correct MySQL username and password.
 ### Step 2
