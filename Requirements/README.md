@@ -1,7 +1,3 @@
-# Requirements
-1) Students and teachers should be able to register and login.
-2) User should be able to add/drop courses.
-3) Students should be able to chat with their class mates.
-4) User should be able able to book appoinments using the chatbot.
-5) User should be able to add notes
-6) Management should be able to update courses per semester. 
+# Description of folder
+## List of requirements 
+This folder contains all the list of requirements agreed by the committee on february 1st. These requirements have been analysed and might be changed during the development period of the website. The list of requirements folder has a table describing the requirements with their ID, risks associated with each requirement and requirement type. 
