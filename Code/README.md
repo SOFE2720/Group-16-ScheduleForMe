@@ -2,7 +2,7 @@
 A scheduler for students.
 ## Installation Instructions
 ### Step 1
-> Edit 'includes/dbhandler.inc.php' with correct MySQL username and password.
+> Edit `includes/dbhandler.inc.php` with correct MySQL username and password.
 ### Step 2
 > Name the database you wish to create to run this site.
 ### Step 3
