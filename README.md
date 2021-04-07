@@ -22,8 +22,8 @@ Some special features like a chatbot, add notes, and chat rooms will be added to
   4. ### Target Markets
       * The primary audience for this project is directed towards the students. For students who require some support, having an engaging conversation with peers, or perhaps booking appointments for certain events, this website has it all covered. The goal of this website is to make it as interactive as possible for students with a variety of navigation options to make it a satisfactory experience.
   5. ### Stakeholders
-      * **Management:** The Developers of this website can implement updates within the website in a frequent manner. The chat box is being monitored in case students require some assistance.
-      * **Developers:** The three members of developing this website are composed of software engineers.
-      * **Marketers:** The website developers consist of three people that will provide the adequate requirements in building this website.
-      * **End Users:** Since the main audience is the students, we want to make sure that this website is easy to navigate. For instance, this website allows students to customize their schedules according to their satisfaction. As developers, we want to make sure that the students are able to navigate with ease and the platform is user-friendly, and that the student is able to find the website with ease. Meanwhile, the website should be able to provide assistance, and that the suggestions the chat box gives will be helpful and beneficial.
-      * **Maintainers:** The developing team of the student embodiment website
+      * ***Management:*** The Developers of this website can implement updates within the website in a frequent manner. The chat box is being monitored in case students require some assistance.
+      * ***Developers:*** The three members of developing this website are composed of software engineers.
+      * ***Marketers:*** The website developers consist of three people that will provide the adequate requirements in building this website.
+      * ***End Users:*** Since the main audience is the students, we want to make sure that this website is easy to navigate. For instance, this website allows students to customize their schedules according to their satisfaction. As developers, we want to make sure that the students are able to navigate with ease and the platform is user-friendly, and that the student is able to find the website with ease. Meanwhile, the website should be able to provide assistance, and that the suggestions the chat box gives will be helpful and beneficial.
+      * ***Maintainers:*** The developing team of the student embodiment website
