@@ -36,3 +36,22 @@ Some special features like a chatbot, add notes, and chat rooms will be added to
   * Constraints:
     * Different pages can lead to certain information for users
     * Teachers and students can use the website.
+
+# Table of Contents
+1. [**Introduction**](#introduction)
+2. [**Product Vision and Scope**](#product-vision-and-scope)
+3. [**Use Cases**](/Use%20Cases/)
+    1. [Use Cases](/Use%20Cases/Use%20Cases.pdf)
+    2. [Jam Board](/Use%20Cases/Jamboard.png)
+    4. [User Story](/Use%20Cases/User%20Story.pdf)
+4. [**Requirements**](/Requirements/)
+    1. [List of Requirements](/Requirements/List%20of%20Requirements.pdf)
+    2. [Review Report of the Requirements](/Requirements/Review%20Report%20of%20the%20Requirements.pdf)
+    3. [Requirements Diagram](/Requirements/ScheduleForMeRequirmentDiagram.jpg)
+5. [**Design**](/Design/)
+    1. [Class Diagram](/Design/Class%20Diagram.jpg)
+    2. [Class Level Sequence Diagram](/Design/Class%20Level%20Sequence%20Diagram.png)
+    3. [System Level Sequence Diagram](/Design/System%20Level%20Sequence%20Diagram.PNG)
+    4. [State Model Diagram](/Design/State%20Model%20Diagram.png)
+6. [**Code**](/Code/)
+7. [**Test Cases**](/Test%20Cases/)
