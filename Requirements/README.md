@@ -1,4 +1,4 @@
-#Requirements
+# Requirements
 1) Students and teachers should be able to register and login.
 2) User should be able to add/drop courses.
 3) Students should be able to chat with their class mates.
