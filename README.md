@@ -29,29 +29,36 @@ Some special features like a chatbot, add notes, and chat rooms will be added to
       * ***Maintainers:*** The developing team of the student embodiment website
 
 ## Product Assumptions and Constraints
-  * Assumptions:
+  * #### Assumptions
     * The user has an interaction with the chat box
     * The user has an online connection established
     * The user has a web browser that can run javascript.
-  * Constraints:
+  * #### Constraints
     * Different pages can lead to certain information for users
     * Teachers and students can use the website.
 
 # Table of Contents
 1. [**Introduction**](#introduction)
 2. [**Product Vision and Scope**](#product-vision-and-scope)
-3. [**Use Cases**](/Use%20Cases/)
+    1. [Vision Statement](#vision-statement)
+    2. [Major Features](#major-features)
+    3. [Scope](#scope)
+    4. [Target Markets](#target-markets)
+    5. [Stakeholders](#stakeholders)
+3. [**Product Assumptions and Constraints**](#product-assumptions-and-constraints)
+4. [**Use Cases**](/Use%20Cases/)
     1. [Use Cases](/Use%20Cases/Use%20Cases.pdf)
     2. [Jam Board](/Use%20Cases/Jamboard.png)
     4. [User Story](/Use%20Cases/User%20Story.pdf)
-4. [**Requirements**](/Requirements/)
+5. [**Requirements**](/Requirements/)
     1. [List of Requirements](/Requirements/List%20of%20Requirements.pdf)
     2. [Review Report of the Requirements](/Requirements/Review%20Report%20of%20the%20Requirements.pdf)
     3. [Requirements Diagram](/Requirements/ScheduleForMeRequirmentDiagram.jpg)
-5. [**Design**](/Design/)
+6. [**Design**](/Design/)
     1. [Class Diagram](/Design/Class%20Diagram.jpg)
     2. [Class Level Sequence Diagram](/Design/Class%20Level%20Sequence%20Diagram.png)
     3. [System Level Sequence Diagram](/Design/System%20Level%20Sequence%20Diagram.PNG)
     4. [State Model Diagram](/Design/State%20Model%20Diagram.png)
-6. [**Code**](/Code/)
-7. [**Test Cases**](/Test%20Cases/)
+    5. [Prototypes](/Design/Prototypes/)
+7. [**Code**](/Code/)
+8. [**Test Cases**](/Test%20Cases/)
