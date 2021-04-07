@@ -1,0 +1,278 @@
+/* Global settings */
+body {
+  background-color: #141414;
+  color: white;
+  font-family: sans-serif;
+}
+body h4, h2{
+  color: #3498db;
+}
+
+body h2{
+  line-height: 30px;
+  padding-left: 5%;
+}
+/* Main layout classes */
+.rightPanel {
+  width: 75%;
+  margin-left: 25%;
+  height: 100%;
+  padding: 0;
+}
+.leftPanel {
+  width: 23%;
+  margin: 15px;
+  padding: 0;
+  position: fixed;
+  display: inline-block;
+  height: 100%;
+  overflow: auto;
+  background-color: #101010;
+}
+.leftPanel ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #555;
+}
+.leftPanel ul li a{
+  display: block;
+  color: #000;
+  padding: 20px 40px;
+  text-decoration: none;
+  font-size: 18px;
+  text-align: center;
+}
+.leftPanel ul li a:hover {
+  background-color: #333;
+  color: #3498db;
+}
+.leftPanel ul li a.active {
+  background-color: #101010;
+  color: #3498db;
+}
+
+header{
+  margin:0;
+  padding:0;
+}
+/*
+Defining the navigation bar properties
+*/
+nav {
+  background-color: #333;
+  text-decoration: none;
+  color: white;
+  overflow: auto;
+}
+
+nav h2{
+  float:left;
+  display:inline-block;
+}
+nav ul{
+  float: right;
+  overflow: auto;
+  list-style-type: none;
+}
+nav ul li{
+  float:left;
+  display: block;
+  padding: 8px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+nav a:hover {
+  color: #3498db;
+}
+/*
+End of navigation bar
+*/
+.preLogin{
+}
+
+/*
+sign up form preLogin
+*/
+.preLogin{
+}
+
+.preLogin input{
+
+display: block;
+margin: 20px auto;
+padding: 5px 10px;
+}
+
+.preLogin input[type="text"],.preLogin input[type="password"]{
+  border:0;
+  background: none;
+  border: 2px solid #3498db;
+  margin: 20px auto;
+  text-align: center;
+  color: white;
+  padding: 5px 10px;
+}
+
+.preLogin input[type="text"]:focus,.preLogin input[type="password"]:focus{
+width: 200px;
+border-color: #2ecc71;
+}
+
+.preLogin input[type="submit"]{
+  background: none;
+  color: white;
+  border: 1px solid lightblue;
+}
+
+.preLogin input[type="submit"]:hover{
+  background: #3498db;
+  cursor: pointer;
+
+}
+.preLogin h4  {
+  text-align: center;
+  font-weight: 500;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+}
+
+/* login input preLogin
+*/
+
+.preLogin1 input[type="text"], input[type="password"]{
+  border:0;
+  background: black;
+  border: 2px solid #3498db;
+  text-align: center;
+  color: white;
+}
+
+.preLogin1 input[type="text"]:focus,input[type="password"]:focus{
+width: 200px;
+border-color: #2ecc71;
+}
+
+.preLogin1 input[type="submit"]{
+  background: black;
+  color: white;
+  border: 1px solid lightblue;
+
+}
+
+.preLogin1 {
+
+  padding-right: 30px;
+}
+
+.preLogin1 input[type="submit"]:hover{
+  background: #3498db;
+  cursor: pointer;
+}
+
+/* rightPanel
+*/
+
+#home_text {
+  padding-top: 30px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.rightPanel h2 {
+  text-align: center;
+}
+#size{
+  font-size: 50px;
+  color: lightblue;
+}
+ img {
+  opacity: 0.4;
+  filter: alpha(opacity=50);
+}
+
+.postLogin{
+  display: none;
+}
+/*
+class table cards start
+*/
+.fTable{
+  width: 90%;
+  margin: auto;
+  padding-top: 15px;
+}
+.fTable tr {
+  width: 30%;
+  margin: auto;
+  font-family: sans-serif;
+  color: #d1d1e0;
+  font-size: 15px;
+  text-align: center;
+}
+
+.timeTable{
+  width: 90%;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 3px;
+  background-color: #101010;
+
+}
+
+.timeTable tr, th {
+  width: 30%;
+  margin: auto;
+  font-family: sans-serif;
+  color: #d1d1e0;
+  font-size: 15px;
+  text-align: center;
+}
+
+/*
+class table cards ends
+*/
+.leftSide{
+  display: block;
+}
+.rightSide{
+  display: block;
+}
+
+.foot{
+  position: absolute;
+  bottom: 1%;
+  left: 25%;
+  right: 1%;
+}
+
+#Laptop {
+  font-size: 10em;
+  width: 15%;
+  margin-left: 37%;
+  margin-right: 50%;
+  display: block;
+}
+.top {
+  padding-top: 40px;
+  font-size: 20px;
+}
+
+.rightPanel h2, h1, p {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.center{
+  display: block;
+}
+fieldset{
+  border: 0px;
+}

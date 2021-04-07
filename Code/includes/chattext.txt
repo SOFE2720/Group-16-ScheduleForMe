@@ -1,0 +1,7 @@
+Admin Cleared
+ahmetk : Hey guys
+ahmetk : is anything due tomorrow?
+mikem : There is a principles assignment 3 due March 16th.
+ahmetk : thank you
+disha : I missed today's digital lecture. What did I miss?
+mikem : Professor went over flip flops, state table and state diagram.
